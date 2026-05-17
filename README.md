@@ -63,7 +63,7 @@ This makes the dashboard flexible and easy to explore for different career paths
 
 # 🖼️ Dashboard Preview
 
-![Data Science Salary Dashboard](./Data_Science_Analysis.png)
+![Data Science Salary Dashboard](./Preview.png)
 
 The dashboard provides an interactive visual analysis of global data science salaries, job platforms, employment types, and country-wise trends.
 
