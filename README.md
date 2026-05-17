@@ -1,6 +1,6 @@
 # 📊 Data Science Salary Dashboard
 
-This project is an interactive Excel dashboard designed to analyze global data science job salaries using real-world job posting data from 2023. The dashboard helps users explore salary trends, job roles, countries, employment types, and hiring platforms within the data industry.
+This project is an interactive Excel dashboard designed to analyze global data science job salaries using real-world job posting data. The dashboard helps users explore salary trends, job roles, countries, employment types, and hiring platforms within the data industry.
 
 The project demonstrates practical Excel skills used in data analytics, including data cleaning, formulas, dashboards, charts, filtering systems, and dynamic visualizations.
 
