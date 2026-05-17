@@ -144,14 +144,14 @@ Benefits:
 
 The Excel workbook contains multiple sheets:
 
-Sheet Name	Purpose
-Data	            Raw dataset used for analysis
-Salary_Dashboard	Main interactive dashboard
-Data_Validation	    Helper sheet for dropdown filters
-Title	            Job title filtering data
-Country	            Country filtering data
-Type	            Employment type filtering data
-Platform	        Platform/source information
+Sheet Name	        Purpose.
+Data	            Raw dataset used for analysis.
+Salary_Dashboard	Main interactive dashboard.
+Data_Validation	    Helper sheet for dropdown filters.
+Title	            Job title filtering data.
+Country	            Country filtering data.
+Type	            Employment type filtering data.
+Platform	        Platform/source information.
 
 🚀 Project Goals
 
